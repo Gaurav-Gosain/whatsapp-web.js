@@ -29,6 +29,7 @@
     "jsqr": "^1.2.0",
     "moduleraid": "git+https://github.com/pixeldesu/moduleRaid.git",
     "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
     "rss-parser": "^3.7.5"
   },
   "devDependencies": {
